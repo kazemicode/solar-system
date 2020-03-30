@@ -1,0 +1,19 @@
+{
+  "name": "simple-solar-system-webgl",
+  "version": "1.0.0",
+  "description": "simple demo of solar system done in WebGL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazemicode/solar-system.git"
+  },
+  "author": "Sara Kazemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazemicode/solar-system/issues"
+  },
+  "homepage": "https://github.com/kazemicode/solar-system#readme"
+}
